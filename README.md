@@ -86,4 +86,4 @@
 ## Final Project Link
 
 
-Please view the [final map online](https://github.com/D-Guth3/CA-Traffic-and-Bottlenecks)
+Please view the [final map online](https://d-guth3.github.io/CA-Traffic-and-Bottlenecks)
